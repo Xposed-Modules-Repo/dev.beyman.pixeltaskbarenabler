@@ -1,51 +1,45 @@
 <details>
 <summary>🇨🇴 🙏 <b>Colombia needs us / Colombia nos necesita</b> ❤️</summary>
 
+<br>
+
 > **[EN]** Pixel Taskbar Enabler is free. However, Colombia, my country, recently suffered a devastating earthquake. The most vulnerable communities in the **Pacific** (including **Chocó**, **Buenaventura**, and others) and parts of the **Andean region** **need us**. If you value this module, please consider supporting through **any official organization or verified donation site**. *Feel free to research this crisis independently. Thank you for your attention.*
 >
 > **[ES]** Pixel Taskbar Enabler es gratuito. Sin embargo, Colombia, mi país, acaba de sufrir un devastador terremoto. Las comunidades más vulnerables del **Pacífico** (incluyendo **Chocó**, **Buenaventura** y otras) y parte de la **región Andina** **nos necesitan**. Si valoras este módulo, considera apoyar a través de **cualquier entidad oficial o sitio de donación verificado**. *Te invito a investigar sobre esta emergencia por tu cuenta. Gracias por tu atención.*
 
 </details>
 
-
 ---
-
-
-
-<div align="center">
-
-### 🌍 Select your language / Selecciona tu idioma
-
-**[🇬🇧 - 🇺🇸 English](#english) &nbsp; • &nbsp; [🇪🇸 - 🇨🇴 Español](#espanol)**
-
-<br>
-
-</div>
-
----
-
-<br>
-
-<a id="english"></a>
-
-> 🇪🇸 - 🇨🇴 **[Cambiar a Español](#espanol)**
-## 🇬🇧 - 🇺🇸 English Version
 
 <div align="center">
 
 # Pixel Taskbar Enabler
 
-**An Xposed module designed to enable the taskbar on Pixel devices.**
+|**An Xposed module designed to enable the taskbar on Pixel devices.** | **Un módulo Xposed diseñado para habilitar la barra de tareas en dispositivos Pixel**|
+|---|---|
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/beymans-code/pixel-taskbar-enabler/main/PXTE%20beyman-dev.png" alt="Pixel Taskbar Enabler" width="300" />
 </p>
 
-[![Download](https://img.shields.io/github/v/release/beymans-code/pixel-taskbar-enabler?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/beymans-code/pixel-taskbar-enabler/releases/latest)
-[![Total](https://img.shields.io/github/downloads/beymans-code/pixel-taskbar-enabler/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/beymans-code/pixel-taskbar-enabler/releases)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0/67_Clean-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/7e51bab3b19012ea41728ba714e2daf9c62b45854359c3dea3fd7124aea6b9ae/detection)
+
+| [![Download](https://img.shields.io/github/v/release/beymans-code/pixel-taskbar-enabler?style=for-the-badge&color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/beymans-code/pixel-taskbar-enabler/releases/latest) | [![VirusTotal](https://img.shields.io/badge/VirusTotal-0/67_Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/7e51bab3b19012ea41728ba714e2daf9c62b45854359c3dea3fd7124aea6b9ae/detection) |
+|---|---|
+
+| **GitHub Repo** | <a href="https://github.com/beymans-code/pixel-taskbar-enabler/releases"><img src="https://img.shields.io/github/downloads/beymans-code/pixel-taskbar-enabler/total?style=for-the-badge&logo=Bookmeter&label=Downloads&logoColor=yellow&color=yellow" width="100%"></a> | <a href="https://github.com/beymans-code/pixel-taskbar-enabler/stargazers"><img src="https://img.shields.io/github/stars/beymans-code/pixel-taskbar-enabler?style=for-the-badge&logo=github&label=Stars&color=yellow" width="100%"></a> |
+|---|---|---|
+| **Xposed Repo** | <a href="https://github.com/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/releases"><img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/total?style=for-the-badge&logo=Bookmeter&label=Downloads&logoColor=yellow&color=yellow" width="100%"></a> | <a href="https://github.com/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/stargazers"><img src="https://img.shields.io/github/stars/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler?style=for-the-badge&logo=github&label=Stars&color=yellow" width="100%"></a> |
 
 </div>
+
+---
+
+### 🌍 Select your language / Selecciona tu idioma
+
+<br>
+
+<details name="language">
+<summary>🇬🇧 - 🇺🇸 <b>English Version</b></summary>
 
 ### Introduction
 
@@ -111,6 +105,16 @@ Since this application requests special permissions to modify internal system fu
 
 ---
 
+### Issues and Bug Reports
+
+If you experience any issues, find a bug, or have suggestions for new features, please report them in the original repository:
+
+| Action | Link |
+| :--- | :--- |
+| **Report a Bug or Request a Feature** | [GitHub Issues Section](https://github.com/beymans-code/pixel-taskbar-enabler/issues) |
+
+---
+
 ### Credits and Acknowledgements
 
 This project is possible thanks to the following open-source contributions and teams:
@@ -119,7 +123,6 @@ This project is possible thanks to the following open-source contributions and t
 * [XposedBridge](https://github.com/rovo89/XposedBridge): The original creation of Xposed by @rovo89.
 * [LSPosed](https://github.com/LSPosed/LSPosed): The LSPosed team for keeping the environment alive.
 * [Vector](https://github.com/JingMatrix/Vector): The Vector team for keeping the environment alive.
-
 * **Google & Android:** The Android operating system and the Google team.
 
 ---
@@ -130,36 +133,14 @@ Pixel Taskbar Enabler is licensed under the [GNU General Public License v3](http
 
 
 <br>
-<br>
-<br>
 
----
+</details>
 
 <br>
 <br>
-<br>
 
-<a id="espanol"></a>
-
-> 🇬🇧 - 🇺🇸 **[Switch to English](#english)**
-## 🇪🇸 - 🇨🇴 Versión en Español
-
-<div align="center">
-
-
-# Pixel Taskbar Enabler
-
-**Un módulo Xposed diseñado para habilitar la barra de tareas en dispositivos Pixel**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/beymans-code/pixel-taskbar-enabler/main/PXTE%20beyman-dev.png" alt="Pixel Taskbar Enabler" width="300" />
-</p>
-
-[![Download](https://img.shields.io/github/v/release/beymans-code/pixel-taskbar-enabler?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/beymans-code/pixel-taskbar-enabler/releases/latest)
-[![Total](https://img.shields.io/github/downloads/beymans-code/pixel-taskbar-enabler/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/beymans-code/pixel-taskbar-enabler/releases)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0/67_Clean-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/7e51bab3b19012ea41728ba714e2daf9c62b45854359c3dea3fd7124aea6b9ae/detection)
-
-</div>
+<details name="language">
+<summary>🇪🇸 - 🇨🇴 <b>Versión en Español</b></summary>
 
 ### Introducción
 
@@ -225,6 +206,16 @@ Dado que esta aplicación solicita permisos especiales para modificar funciones 
 
 ---
 
+### Problemas y Reportes de Errores (Issues)
+
+Si experimentas algún problema, encuentras un error o tienes sugerencias para nuevas funciones, por favor repórtalos en el repositorio original:
+
+| Acción | Enlace |
+| :--- | :--- |
+| **Reportar un Error o Sugerir Función** | [Sección de Issues en GitHub](https://github.com/beymans-code/pixel-taskbar-enabler/issues) |
+
+---
+
 ### Créditos y Agradecimientos
 
 Este proyecto es posible gracias a las siguientes contribuciones de código abierto y equipos:
@@ -240,3 +231,5 @@ Este proyecto es posible gracias a las siguientes contribuciones de código abie
 ### Licencia
 
 Pixel Taskbar Enabler está licenciado bajo la [GNU General Public License v3](http://www.gnu.org/copyleft/gpl.html).
+
+</details>
