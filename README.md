@@ -13,6 +13,8 @@
 
 <div align="center">
 
+[![Latest Release](https://img.shields.io/github/v/release/beymans-code/pixel-taskbar-enabler?style=for-the-badge&color=blue)](https://github.com/beymans-code/pixel-taskbar-enabler/releases/latest)
+
 # Pixel Taskbar Enabler
 
 |**An Xposed module designed to enable the taskbar on Pixel devices.** | **Un módulo Xposed diseñado para habilitar la barra de tareas en dispositivos Pixel**|
@@ -23,12 +25,12 @@
 </p>
 
 
-| [![Download](https://img.shields.io/github/v/release/beymans-code/pixel-taskbar-enabler?style=for-the-badge&color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/beymans-code/pixel-taskbar-enabler/releases/latest) | [![VirusTotal](https://img.shields.io/badge/VirusTotal-0/67_Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/7e51bab3b19012ea41728ba714e2daf9c62b45854359c3dea3fd7124aea6b9ae/detection) |
+| [![Download](https://img.shields.io/github/v/release/beymans-code/pixel-taskbar-enabler?style=for-the-badge&color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/beymans-code/pixel-taskbar-enabler/releases/latest) | [![VirusTotal](https://img.shields.io/badge/VirusTotal-0/67_Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/16e29ec671490824612686adcc6aad08b94db30f8dad8bb6c67f261c3d1cf03c?nocache=1) |
 |---|---|
 
-| **GitHub Repo** | <a href="https://github.com/beymans-code/pixel-taskbar-enabler/releases"><img src="https://img.shields.io/github/downloads/beymans-code/pixel-taskbar-enabler/total?style=for-the-badge&logo=Bookmeter&label=Downloads&logoColor=yellow&color=yellow" width="100%"></a> | <a href="https://github.com/beymans-code/pixel-taskbar-enabler/stargazers"><img src="https://img.shields.io/github/stars/beymans-code/pixel-taskbar-enabler?style=for-the-badge&logo=github&label=Stars&color=yellow" width="100%"></a> |
+| [**GitHub Repo**](https://github.com/beymans-code/pixel-taskbar-enabler) | <a href="https://github.com/beymans-code/pixel-taskbar-enabler/releases"><img src="https://img.shields.io/github/downloads/beymans-code/pixel-taskbar-enabler/total?style=for-the-badge&logo=Bookmeter&label=Downloads&logoColor=yellow&color=yellow" width="100%"></a> | <a href="https://github.com/beymans-code/pixel-taskbar-enabler/stargazers"><img src="https://img.shields.io/github/stars/beymans-code/pixel-taskbar-enabler?style=for-the-badge&logo=github&label=Stars&color=yellow" width="100%"></a> |
 |---|---|---|
-| **Xposed Repo** | <a href="https://github.com/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/releases"><img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/total?style=for-the-badge&logo=Bookmeter&label=Downloads&logoColor=yellow&color=yellow" width="100%"></a> | <a href="https://github.com/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/stargazers"><img src="https://img.shields.io/github/stars/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler?style=for-the-badge&logo=github&label=Stars&color=yellow" width="100%"></a> |
+| [**Xposed Repo**](https://github.com/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler) | <a href="https://github.com/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/releases"><img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/total?style=for-the-badge&logo=Bookmeter&label=Downloads&logoColor=yellow&color=yellow" width="100%"></a> | <a href="https://github.com/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler/stargazers"><img src="https://img.shields.io/github/stars/Xposed-Modules-Repo/dev.beyman.pixeltaskbarenabler?style=for-the-badge&logo=github&label=Stars&color=yellow" width="100%"></a> |
 
 </div>
 
@@ -80,7 +82,7 @@ Since this application requests special permissions to modify internal system fu
 
 ✅ **This application is 100% safe and open source.**
 - It does not collect data, does not connect to the internet, and all the code is publicly available here for review.
-- You can verify the APK analysis on **[VirusTotal (0 Detections)](https://www.virustotal.com/gui/file/7e51bab3b19012ea41728ba714e2daf9c62b45854359c3dea3fd7124aea6b9ae/detection)**.
+- You can verify the APK analysis on **[VirusTotal (0 Detections)](https://www.virustotal.com/gui/file/16e29ec671490824612686adcc6aad08b94db30f8dad8bb6c67f261c3d1cf03c?nocache=1)**.
 
 > If Play Protect blocks the installation, click on **"Learn more"** and then **"Install anyway"**.
 
@@ -181,7 +183,7 @@ Dado que esta aplicación solicita permisos especiales para modificar funciones 
 
 ✅ **Esta aplicación es 100% segura y de código abierto.**
 - No recopila datos, no se conecta a internet y todo el código está disponible públicamente aquí para su revisión.
-- Puedes verificar el análisis del APK en **[VirusTotal (0 Detecciones)](https://www.virustotal.com/gui/file/7e51bab3b19012ea41728ba714e2daf9c62b45854359c3dea3fd7124aea6b9ae/detection)**.
+- Puedes verificar el análisis del APK en **[VirusTotal (0 Detecciones)](https://www.virustotal.com/gui/file/16e29ec671490824612686adcc6aad08b94db30f8dad8bb6c67f261c3d1cf03c?nocache=1)**.
 
 > Si Play Protect bloquea la instalación, pulsa en **"Más detalles" (Learn more)** y luego en **"Instalar de todas formas" (Install anyway)**.
 
